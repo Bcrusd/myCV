@@ -1,0 +1,12 @@
+.myHeader {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
